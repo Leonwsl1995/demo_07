@@ -1,0 +1,13 @@
+{
+  "Waypoints": [
+    {
+      "id": 1,
+      "name": "route 1",
+      "valid": true,
+      "frameid" : "frame001"
+    }
+  ],
+  "profile": {
+    "name": "leon"
+  }
+}
